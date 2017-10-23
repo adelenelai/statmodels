@@ -1,4 +1,6 @@
- ###FIt model and CHoose ncomp
+#### Based on {plsr} 
+
+###FIt model and CHoose ncomp
 fich <- function(mydata){
 library(pls)
 

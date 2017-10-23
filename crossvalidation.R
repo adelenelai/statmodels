@@ -1,4 +1,4 @@
-### cross-validate the training set
+### internally cross-validate the linear model built on the training set
 tr <- function(fit){  
         
         dat <- fit$model

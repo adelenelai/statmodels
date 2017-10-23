@@ -1,4 +1,4 @@
-#### Based on {plsr} 
+#### Based on {pls} 
 
 ###FIt model and CHoose ncomp
 fich <- function(mydata){

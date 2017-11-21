@@ -10,3 +10,6 @@ Running partial least squares regression using {pls} by Bjorn Mevik. Functions t
 
 ## marginals
 Based on {ggplot}, plot and facets the marginal distributions of the enumerated variables of a dataset.
+
+## unadjR2
+Calculate the unadjusted R2 value. Gam objects derived using {mgcv} give adjusted R2 by default in model outputs.
